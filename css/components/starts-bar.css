@@ -1,0 +1,27 @@
+.start-bar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 5px 3px;
+  box-sizing: border-box;
+}
+.start-bar__column {
+  width: 33%;
+}
+.start-bar__column:first-child span {
+  margin-right: 5px;
+}
+.start-bar__column:nth-child(2) {
+  display: flex;
+  justify-content: center;
+}
+.start-bar__column:last-child {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.start-bar__column .fa-battery-full {
+  margin: 0px 5px;
+}

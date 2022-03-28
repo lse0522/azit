@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+@import "reset.css";
+@import "variables.css";
+
+/* Components */
+@import "components/starts-bar.css";
+
+/* Screens */
+@import "screens/login.css";
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+@import "reset.css";
+@import "variables.css";
+
+/* Components */
+@import "components/starts-bar.css";
+
+/* Screens */
+@import "screens/login.css";
+@import "screens/signup.css";
+@import "screens/lock.css";
+@import "screens/main.css";

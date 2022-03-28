@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <link rel="stylesheet" href="css/styles.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A!ZIT-APP</title>
+</head>
+<body>
+    <div class="start-bar">
+        <div class="start-bar__column">
+            <span>Service</span>
+            <i class="fas fa-wifi"></i>
+        </div>
+        <div class="start-bar__column">
+            <span>10:10</span>
+        </div>
+        <div class="start-bar__column">
+            <span>100%</span>
+            <i class="fas fa-battery-full"></i>
+            <i class="fas fa-bolt"></i>
+        </div>
+    </div>
+
+    <div class="signup-logo_title">
+        A!ZIT
+    </div>
+
+    <form action="index.html" method="get" class="signup-form">
+
+        <div class="signup-email">
+            <h1 class="signup-email__text">아이디</h1>
+            <input name="signup-email__mail" type="text" />
+        </div>
+
+        <div class="signup-password">
+                <h1 class="signup-password__text">비밀번호</h1>
+                <input name="signup-password__password" type="password" />
+                <h1 class="signup-password__text">비밀번호 재확인</h1>
+                <input name="signup-password__password__re" type="password" />
+        </div>
+
+        <div class="signup-name">
+            <h1 class="signup-name__text">이름</h1>
+            <input name="signup-name__set" type="text" />
+        </div>
+
+        <div class="signup-gender">
+            <h1 class="signup-gender__text">생년월일</h1>
+            <input name="signup-birthday__day" type="date" />
+        </div>
+
+        <div class="signup-gender">
+            <h1 class="signup-gender__text">성별</h1>
+            <div class="signup-gender__ra">
+                <div class="signup-gender__man">
+                    <input name="gender" id ="man" type="radio" value="man" checked />
+                    <label for="man">남자</label>
+                </div>
+    
+                <div class="signup-gender__woman">
+                    <input name="gender" id ="woman" type="radio" value="woman" />
+                    <label for="woman">여자</label>
+                </div>
+            </div>
+
+        </div>
+
+
+        <input type="submit" value="가입하기"/>
+    </form>
+
+    <script src="https://kit.fontawesome.com/20a66087ab.js" crossorigin="anonymous"></script>
+</body>
+</html>

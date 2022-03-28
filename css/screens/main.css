@@ -1,0 +1,52 @@
+.user-profile {
+  display: flex;
+  margin: 60px 30px;
+}
+
+.user-profile__photo {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+
+.user-profile__name {
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  margin: 50px 75px;
+}
+
+.user-diary__1 {
+  float: left;
+  margin-left: 40px;
+  margin-bottom: 30px;
+  width: 150px;
+  height: 300px;
+  border-radius: 20px;
+}
+
+.user-diary__2 {
+  float: left;
+  margin-left: 40px;
+  margin-bottom: 30px;
+  width: 150px;
+  height: 300px;
+  border-radius: 20px;
+}
+.user-diary__3 {
+  float: left;
+  margin-left: 40px;
+  margin-bottom: 30px;
+  width: 150px;
+  height: 300px;
+  border-radius: 20px;
+}
+
+.user-diary__4 {
+  float: left;
+  margin-left: 40px;
+  margin-bottom: 30px;
+  width: 150px;
+  height: 300px;
+  border-radius: 20px;
+}

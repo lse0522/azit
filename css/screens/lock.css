@@ -1,0 +1,144 @@
+.lock-icon {
+  margin: 100px;
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  color: var(--maincolor);
+}
+
+.lock-solid {
+  margin: 0px 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.lock-solid__1 {
+  border: 1px solid var(--maincolor);
+}
+
+.lock-solid__2 {
+  border: 1px solid var(--maincolor);
+}
+
+.lock-solid__3 {
+  border: 1px solid var(--maincolor);
+}
+
+.lock-solid__4 {
+  border: 1px solid var(--maincolor);
+}
+
+.lock-bar {
+  margin: 50px 60px;
+  text-align: center;
+}
+
+.lock-bar__1 {
+  float: left;
+  width: 30%;
+  box-sizing: border-box;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--maincolor);
+}
+.lock-bar__2 {
+  float: left;
+  margin-left: 5%;
+  width: 30%;
+  box-sizing: border-box;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--maincolor);
+}
+.lock-bar__3 {
+  float: right;
+  width: 30%;
+  box-sizing: border-box;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--maincolor);
+}
+.lock-bar__4 {
+  margin-top: 20px;
+  float: left;
+  width: 30%;
+  box-sizing: border-box;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--maincolor);
+}
+.lock-bar__5 {
+  margin-top: 20px;
+  float: left;
+  margin-left: 5%;
+  width: 30%;
+  box-sizing: border-box;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--maincolor);
+}
+.lock-bar__6 {
+  margin-top: 20px;
+  float: right;
+  width: 30%;
+  box-sizing: border-box;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--maincolor);
+}
+.lock-bar__7 {
+  margin-top: 20px;
+  float: left;
+  width: 30%;
+  box-sizing: border-box;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--maincolor);
+}
+.lock-bar__8 {
+  margin-top: 20px;
+  float: left;
+  margin-left: 5%;
+  width: 30%;
+  box-sizing: border-box;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--maincolor);
+}
+.lock-bar__9 {
+  margin-top: 20px;
+  float: right;
+  width: 30%;
+  box-sizing: border-box;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--maincolor);
+}
+.lock-bar__f {
+  margin-top: 20px;
+  float: left;
+  width: 30%;
+  box-sizing: border-box;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--maincolor);
+}
+.lock-bar__0 {
+  margin-top: 20px;
+  float: left;
+  margin-left: 5%;
+  width: 30%;
+  box-sizing: border-box;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--maincolor);
+}
+.lock-bar__b {
+  margin-top: 20px;
+  float: right;
+  width: 30%;
+  box-sizing: border-box;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--maincolor);
+}
